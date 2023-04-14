@@ -1,0 +1,194 @@
+2023-04-14 14:36:40 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x10bfacb70; archive(resolved)="<IDEArchive: 0x600005518fc0>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSAppStoreDistribution: 0x600007d33240>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x60000265bc40; teamID='L9NDR946RG', teamName='iCare Medical LLC', teamType='Company', username='jameslayton@jlappllc.com', isFreeProvisioningTeam='0'>">
+	Chain (16, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x10bfacb70; archive = "<IDEArchive: 0x600005518fc0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600007d33240>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000265bc40; teamID='L9NDR946RG', teamName='iCare Medical LLC', teamType='Company', username='jameslayton@jlappllc.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x10bf9e690; archive = "<IDEArchive: 0x600005518fc0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600007d33240>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000265bc40; teamID='L9NDR946RG', teamName='iCare Medical LLC', teamType='Company', username='jameslayton@jlappllc.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x142f44cc0; archive = "<IDEArchive: 0x600005518fc0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600007d33240>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000265bc40; teamID='L9NDR946RG', teamName='iCare Medical LLC', teamType='Company', username='jameslayton@jlappllc.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x16ef83a10; archive = "<IDEArchive: 0x600005518fc0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600007d33240>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000265bc40; teamID='L9NDR946RG', teamName='iCare Medical LLC', teamType='Company', username='jameslayton@jlappllc.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x10c293a30; archive = "<IDEArchive: 0x600005518fc0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600007d33240>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000265bc40; teamID='L9NDR946RG', teamName='iCare Medical LLC', teamType='Company', username='jameslayton@jlappllc.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x17b6ea520; archive = "<IDEArchive: 0x600005518fc0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600007d33240>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000265bc40; teamID='L9NDR946RG', teamName='iCare Medical LLC', teamType='Company', username='jameslayton@jlappllc.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x142f421a0; archive = "<IDEArchive: 0x600005518fc0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600007d33240>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000265bc40; teamID='L9NDR946RG', teamName='iCare Medical LLC', teamType='Company', username='jameslayton@jlappllc.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x14af9dba0; archive = "<IDEArchive: 0x600005518fc0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600007d33240>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000265bc40; teamID='L9NDR946RG', teamName='iCare Medical LLC', teamType='Company', username='jameslayton@jlappllc.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x16ef2d5a0; archive = "<IDEArchive: 0x600005518fc0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600007d33240>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000265bc40; teamID='L9NDR946RG', teamName='iCare Medical LLC', teamType='Company', username='jameslayton@jlappllc.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x10c022490; archive = "<IDEArchive: 0x600005518fc0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600007d33240>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000265bc40; teamID='L9NDR946RG', teamName='iCare Medical LLC', teamType='Company', username='jameslayton@jlappllc.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x10c01cc40; archive = "<IDEArchive: 0x600005518fc0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600007d33240>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000265bc40; teamID='L9NDR946RG', teamName='iCare Medical LLC', teamType='Company', username='jameslayton@jlappllc.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x17fd64010; archive = "<IDEArchive: 0x600005518fc0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600007d33240>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000265bc40; teamID='L9NDR946RG', teamName='iCare Medical LLC', teamType='Company', username='jameslayton@jlappllc.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x10c2152b0; archive = "<IDEArchive: 0x600005518fc0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600007d33240>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000265bc40; teamID='L9NDR946RG', teamName='iCare Medical LLC', teamType='Company', username='jameslayton@jlappllc.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x142f26940; archive = "<IDEArchive: 0x600005518fc0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600007d33240>", team="(null)">
+	<IDEDistributionContext: 0x2a042c3c0; archive = "<IDEArchive: 0x600005518fc0>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600007d33240>", team="(null)">
+	<IDEDistributionContext: 0x17fee4490; archive = "<IDEArchive: 0x600005518fc0>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x10bfacb70>
+2023-04-14 14:36:40 +0000  Processing step: IDEDistributionCreateDestRootStep
+2023-04-14 14:36:40 +0000  Processing step: IDEDistributionCopyItemStep
+2023-04-14 14:36:40 +0000  Running /usr/bin/ditto '-V' '/Users/jameslayton/Library/Developer/Xcode/Archives/2023-04-13/CheckIn 4-13-23, 9.05 AM.xcarchive/Products/Applications/CheckIn.app' '/var/folders/jx/d4qqw6q52s32b64brs77tbrm0000gn/T/XcodeDistPipeline.~~~PFBJEU/Root/Payload/CheckIn.app'
+2023-04-14 14:36:40 +0000  >>> Copying /Users/jameslayton/Library/Developer/Xcode/Archives/2023-04-13/CheckIn 4-13-23, 9.05 AM.xcarchive/Products/Applications/CheckIn.app 
+2023-04-14 14:36:40 +0000  copying file ./_CodeSignature/CodeResources ... 
+2023-04-14 14:36:40 +0000  4647 bytes for ./_CodeSignature/CodeResources
+2023-04-14 14:36:40 +0000  copying file ./AppIcon60x60@2x.png ... 
+2023-04-14 14:36:40 +0000  9311 bytes for ./AppIcon60x60@2x.png
+2023-04-14 14:36:40 +0000  copying file ./QuestionsData.plist ... 
+2023-04-14 14:36:40 +0000  1712 bytes for ./QuestionsData.plist
+2023-04-14 14:36:40 +0000  copying file ./Launch Screen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2023-04-14 14:36:40 +0000  1304 bytes for ./Launch Screen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2023-04-14 14:36:40 +0000  copying file ./Launch Screen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2023-04-14 14:36:40 +0000  896 bytes for ./Launch Screen.storyboardc/UIViewController-01J-lp-oVM.nib
+2023-04-14 14:36:40 +0000  copying file ./Launch Screen.storyboardc/Info.plist ... 
+2023-04-14 14:36:40 +0000  258 bytes for ./Launch Screen.storyboardc/Info.plist
+2023-04-14 14:36:40 +0000  copying file ./README.md ... 
+2023-04-14 14:36:40 +0000  479 bytes for ./README.md
+2023-04-14 14:36:40 +0000  copying file ./Assets.car ... 
+2023-04-14 14:36:40 +0000  360159 bytes for ./Assets.car
+2023-04-14 14:36:40 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+2023-04-14 14:36:40 +0000  11691 bytes for ./AppIcon76x76@2x~ipad.png
+2023-04-14 14:36:40 +0000  copying file ./CheckIn ... 
+2023-04-14 14:36:40 +0000  2587200 bytes for ./CheckIn
+2023-04-14 14:36:40 +0000  copying file ./PhoneNumberKit_PhoneNumberKit.bundle/PhoneNumberMetadata.json ... 
+2023-04-14 14:36:40 +0000  359131 bytes for ./PhoneNumberKit_PhoneNumberKit.bundle/PhoneNumberMetadata.json
+2023-04-14 14:36:40 +0000  copying file ./PhoneNumberKit_PhoneNumberKit.bundle/Info.plist ... 
+2023-04-14 14:36:40 +0000  701 bytes for ./PhoneNumberKit_PhoneNumberKit.bundle/Info.plist
+2023-04-14 14:36:40 +0000  copying file ./embedded.mobileprovision ... 
+2023-04-14 14:36:40 +0000  12080 bytes for ./embedded.mobileprovision
+2023-04-14 14:36:40 +0000  copying file ./Info.plist ... 
+2023-04-14 14:36:40 +0000  1530 bytes for ./Info.plist
+2023-04-14 14:36:40 +0000  copying file ./PkgInfo ... 
+2023-04-14 14:36:40 +0000  8 bytes for ./PkgInfo
+2023-04-14 14:36:40 +0000  /usr/bin/ditto exited with 0
+2023-04-14 14:36:40 +0000  Processing step: IDEDistributionEmbedProfileStep
+2023-04-14 14:36:40 +0000  Processing step: IDEDistributionInfoPlistStep
+2023-04-14 14:36:40 +0000  Processing step: IDEDistributionItemRemovalStep
+2023-04-14 14:36:40 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2023-04-14 14:36:40 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2023-04-14 14:36:40 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2023-04-14 14:36:40 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2023-04-14 14:36:40 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2023-04-14 14:36:40 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2023-04-14 14:36:40 +0000  Processing step: IDEDistributionSymbolsStep
+2023-04-14 14:36:40 +0000  Processing symbols for CheckIn.app
+2023-04-14 14:36:40 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/jx/d4qqw6q52s32b64brs77tbrm0000gn/T/XcodeDistPipeline.~~~PFBJEU/Root/Payload/CheckIn.app' '--link-dest' '/var/folders/jx/d4qqw6q52s32b64brs77tbrm0000gn/T/XcodeDistPipeline.~~~PFBJEU/Root/Payload' '/var/folders/jx/d4qqw6q52s32b64brs77tbrm0000gn/T/XcodeDistPipeline.~~~PFBJEU'
+2023-04-14 14:36:40 +0000  building file list ... 
+2023-04-14 14:36:40 +0000   0 files...2023-04-14 14:36:40 +0000  19 files to consider
+2023-04-14 14:36:40 +0000  CheckIn.app/
+2023-04-14 14:36:40 +0000  CheckIn.app/Launch Screen.storyboardc/
+CheckIn.app/PhoneNumberKit_PhoneNumberKit.bundle/
+CheckIn.app/_CodeSignature/
+2023-04-14 14:36:40 +0000  
+2023-04-14 14:36:40 +0000  sent 721 bytes  received 44 bytes  1.49K bytes/sec
+total size is 3.20M  speedup is 4380.57
+2023-04-14 14:36:40 +0000  /usr/bin/rsync exited with 0
+2023-04-14 14:36:40 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/jameslayton/Library/Developer/Xcode/Archives/2023-04-13/CheckIn 4-13-23, 9.05 AM.xcarchive/dSYMs/' '--link-dest' '/Users/jameslayton/Library/Developer/Xcode/Archives/2023-04-13/CheckIn 4-13-23, 9.05 AM.xcarchive/dSYMs/' '/var/folders/jx/d4qqw6q52s32b64brs77tbrm0000gn/T/XcodeDistPipeline.~~~PFBJEU'
+2023-04-14 14:36:40 +0000  building file list ... 
+2023-04-14 14:36:40 +0000   0 files...2023-04-14 14:36:40 +0000  7 files to consider
+2023-04-14 14:36:40 +0000  ./
+2023-04-14 14:36:40 +0000  CheckIn.app.dSYM/
+CheckIn.app.dSYM/Contents/
+CheckIn.app.dSYM/Contents/Resources/
+2023-04-14 14:36:40 +0000  CheckIn.app.dSYM/Contents/Resources/DWARF/
+2023-04-14 14:36:40 +0000  
+2023-04-14 14:36:40 +0000  sent 240 bytes  received 50 bytes  580.00 bytes/sec
+total size is 10.69M  speedup is 38634.70
+2023-04-14 14:36:40 +0000  /usr/bin/rsync exited with 0
+2023-04-14 14:36:40 +0000  Writing /var/folders/jx/d4qqw6q52s32b64brs77tbrm0000gn/T/XcodeDistPipeline.~~~PFBJEU/Symbols/42C53E2F-186E-356E-88DD-970C7770EC76.symbols
+2023-04-14 14:36:40 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2023-04-14 14:36:40 +0000  Processing step: IDEDistributionAppThinningStep
+2023-04-14 14:36:40 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2023-04-14 14:36:40 +0000  Processing step: IDEDistributionArchThinningStep
+2023-04-14 14:36:40 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/jx/d4qqw6q52s32b64brs77tbrm0000gn/T/XcodeDistPipeline.~~~PFBJEU/Root/Payload/CheckIn.app/CheckIn' '-verify_arch' 'arm64e'
+2023-04-14 14:36:40 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-04-14 14:36:40 +0000  Skipping architecture thinning for item "CheckIn" because arch "arm64e" wasn't found
+2023-04-14 14:36:40 +0000  Processing step: IDEDistributionODRStep
+2023-04-14 14:36:40 +0000  Processing step: IDEDistributionStripXattrsStep
+2023-04-14 14:36:40 +0000  Running /usr/bin/xattr '-crs' '/var/folders/jx/d4qqw6q52s32b64brs77tbrm0000gn/T/XcodeDistPipeline.~~~PFBJEU/Root/Payload/CheckIn.app'
+2023-04-14 14:36:40 +0000  /usr/bin/xattr exited with 0
+2023-04-14 14:36:40 +0000  Processing step: IDEDistributionCodesignStep
+2023-04-14 14:36:40 +0000  Entitlements for <IDEDistributionItem: 0x600005521260; bundleID='com.icare.check-In', path='<DVTFilePath:0x6000054eb410:'/Users/jameslayton/Library/Developer/Xcode/Archives/2023-04-13/CheckIn 4-13-23, 9.05 AM.xcarchive/Products/Applications/CheckIn.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000dcce1c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000008874f0; name='Apple Distribution: iCare Medical LLC (L9NDR946RG)', hash='2E540967B54A3657681A61B29EA8CF34DBA1AC6C', serialNumber='6534160CC6B3BA1B6EEE8912E62A8530', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2023-03-21 00:18:47 +0000''>', entitlements='{
+    "application-identifier" = "L9NDR946RG.com.icare.check-In";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = L9NDR946RG;
+    "get-task-allow" = 0;
+}', teamID='L9NDR946RG', identifier='com.icare.check-In', executablePath='<DVTFilePath:0x600005509980:'/Users/jameslayton/Library/Developer/Xcode/Archives/2023-04-13/CheckIn 4-13-23, 9.05 AM.xcarchive/Products/Applications/CheckIn.app/CheckIn'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "L9NDR946RG.com.icare.check-In";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = L9NDR946RG;
+    "get-task-allow" = 0;
+}
+2023-04-14 14:36:40 +0000  Entitlements for <IDEDistributionItem: 0x600005521260; bundleID='com.icare.check-In', path='<DVTFilePath:0x6000054eb410:'/Users/jameslayton/Library/Developer/Xcode/Archives/2023-04-13/CheckIn 4-13-23, 9.05 AM.xcarchive/Products/Applications/CheckIn.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000dcce1c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000008f6e10; name='Apple Distribution: iCare Medical LLC (L9NDR946RG)', hash='2E540967B54A3657681A61B29EA8CF34DBA1AC6C', serialNumber='6534160CC6B3BA1B6EEE8912E62A8530', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2023-03-21 00:18:47 +0000''>', entitlements='{
+    "application-identifier" = "L9NDR946RG.com.icare.check-In";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = L9NDR946RG;
+    "get-task-allow" = 0;
+}', teamID='L9NDR946RG', identifier='com.icare.check-In', executablePath='<DVTFilePath:0x600005509980:'/Users/jameslayton/Library/Developer/Xcode/Archives/2023-04-13/CheckIn 4-13-23, 9.05 AM.xcarchive/Products/Applications/CheckIn.app/CheckIn'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "L9NDR946RG.com.icare.check-In";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = L9NDR946RG;
+    "get-task-allow" = 0;
+}
+2023-04-14 14:36:40 +0000  Writing entitlements for <IDEDistributionItem: 0x600005521260; bundleID='com.icare.check-In', path='<DVTFilePath:0x6000054eb410:'/Users/jameslayton/Library/Developer/Xcode/Archives/2023-04-13/CheckIn 4-13-23, 9.05 AM.xcarchive/Products/Applications/CheckIn.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000dcce1c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000008f5a20; name='Apple Distribution: iCare Medical LLC (L9NDR946RG)', hash='2E540967B54A3657681A61B29EA8CF34DBA1AC6C', serialNumber='6534160CC6B3BA1B6EEE8912E62A8530', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2023-03-21 00:18:47 +0000''>', entitlements='{
+    "application-identifier" = "L9NDR946RG.com.icare.check-In";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = L9NDR946RG;
+    "get-task-allow" = 0;
+}', teamID='L9NDR946RG', identifier='com.icare.check-In', executablePath='<DVTFilePath:0x600005509980:'/Users/jameslayton/Library/Developer/Xcode/Archives/2023-04-13/CheckIn 4-13-23, 9.05 AM.xcarchive/Products/Applications/CheckIn.app/CheckIn'>', hardenedRuntime='0'>'> to: /var/folders/jx/d4qqw6q52s32b64brs77tbrm0000gn/T/XcodeDistPipeline.~~~PFBJEU/entitlements~~~Fb9g4u
+2023-04-14 14:36:40 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '2E540967B54A3657681A61B29EA8CF34DBA1AC6C' '--entitlements' '/var/folders/jx/d4qqw6q52s32b64brs77tbrm0000gn/T/XcodeDistPipeline.~~~PFBJEU/entitlements~~~Fb9g4u' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/jx/d4qqw6q52s32b64brs77tbrm0000gn/T/XcodeDistPipeline.~~~PFBJEU/Root/Payload/CheckIn.app'
+2023-04-14 14:36:40 +0000  /var/folders/jx/d4qqw6q52s32b64brs77tbrm0000gn/T/XcodeDistPipeline.~~~PFBJEU/Root/Payload/CheckIn.app: replacing existing signature
+2023-04-14 14:36:41 +0000  /var/folders/jx/d4qqw6q52s32b64brs77tbrm0000gn/T/XcodeDistPipeline.~~~PFBJEU/Root/Payload/CheckIn.app: signed app bundle with Mach-O thin (arm64) [com.icare.check-In]
+2023-04-14 14:36:41 +0000  /usr/bin/codesign exited with 0
+2023-04-14 14:36:41 +0000  Processing step: IDEDistributionZipODRItemStep
+2023-04-14 14:36:41 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-04-14 14:36:41 +0000  Processing step: IDEDistributionCreateIPAStep
+2023-04-14 14:36:41 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/jx/d4qqw6q52s32b64brs77tbrm0000gn/T/XcodeDistPipeline.~~~PFBJEU/Symbols' '--link-dest' '/var/folders/jx/d4qqw6q52s32b64brs77tbrm0000gn/T/XcodeDistPipeline.~~~PFBJEU' '/var/folders/jx/d4qqw6q52s32b64brs77tbrm0000gn/T/XcodeDistPipeline.~~~PFBJEU/Root'
+2023-04-14 14:36:41 +0000  building file list ... 
+2023-04-14 14:36:41 +0000   0 files...2023-04-14 14:36:41 +0000  2 files to consider
+2023-04-14 14:36:41 +0000  Symbols/
+2023-04-14 14:36:41 +0000  
+2023-04-14 14:36:41 +0000  sent 148 bytes  received 26 bytes  348.00 bytes/sec
+total size is 4.31M  speedup is 25958.83
+2023-04-14 14:36:41 +0000  /usr/bin/rsync exited with 0
+2023-04-14 14:36:41 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/jx/d4qqw6q52s32b64brs77tbrm0000gn/T/XcodeDistPipeline.~~~PFBJEU/Root' '/var/folders/jx/d4qqw6q52s32b64brs77tbrm0000gn/T/XcodeDistPipeline.~~~PFBJEU/Packages/CheckIn.ipa'
+2023-04-14 14:36:41 +0000  >>> Copying /var/folders/jx/d4qqw6q52s32b64brs77tbrm0000gn/T/XcodeDistPipeline.~~~PFBJEU/Root 
+2023-04-14 14:36:41 +0000  copying file ./Payload/CheckIn.app/_CodeSignature/CodeResources ... 
+2023-04-14 14:36:41 +0000  4647 bytes for ./Payload/CheckIn.app/_CodeSignature/CodeResources
+2023-04-14 14:36:41 +0000  copying file ./Payload/CheckIn.app/AppIcon60x60@2x.png ... 
+2023-04-14 14:36:41 +0000  9311 bytes for ./Payload/CheckIn.app/AppIcon60x60@2x.png
+2023-04-14 14:36:41 +0000  copying file ./Payload/CheckIn.app/QuestionsData.plist ... 
+2023-04-14 14:36:41 +0000  1712 bytes for ./Payload/CheckIn.app/QuestionsData.plist
+2023-04-14 14:36:41 +0000  copying file ./Payload/CheckIn.app/Launch Screen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2023-04-14 14:36:41 +0000  1304 bytes for ./Payload/CheckIn.app/Launch Screen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2023-04-14 14:36:41 +0000  copying file ./Payload/CheckIn.app/Launch Screen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2023-04-14 14:36:41 +0000  896 bytes for ./Payload/CheckIn.app/Launch Screen.storyboardc/UIViewController-01J-lp-oVM.nib
+2023-04-14 14:36:41 +0000  copying file ./Payload/CheckIn.app/Launch Screen.storyboardc/Info.plist ... 
+2023-04-14 14:36:41 +0000  258 bytes for ./Payload/CheckIn.app/Launch Screen.storyboardc/Info.plist
+2023-04-14 14:36:41 +0000  copying file ./Payload/CheckIn.app/README.md ... 
+2023-04-14 14:36:41 +0000  479 bytes for ./Payload/CheckIn.app/README.md
+2023-04-14 14:36:41 +0000  copying file ./Payload/CheckIn.app/Assets.car ... 
+2023-04-14 14:36:41 +0000  360159 bytes for ./Payload/CheckIn.app/Assets.car
+2023-04-14 14:36:41 +0000  copying file ./Payload/CheckIn.app/AppIcon76x76@2x~ipad.png ... 
+2023-04-14 14:36:41 +0000  11691 bytes for ./Payload/CheckIn.app/AppIcon76x76@2x~ipad.png
+2023-04-14 14:36:41 +0000  copying file ./Payload/CheckIn.app/CheckIn ... 
+2023-04-14 14:36:41 +0000  2587200 bytes for ./Payload/CheckIn.app/CheckIn
+2023-04-14 14:36:41 +0000  copying file ./Payload/CheckIn.app/PhoneNumberKit_PhoneNumberKit.bundle/PhoneNumberMetadata.json ... 
+2023-04-14 14:36:41 +0000  359131 bytes for ./Payload/CheckIn.app/PhoneNumberKit_PhoneNumberKit.bundle/PhoneNumberMetadata.json
+2023-04-14 14:36:41 +0000  copying file ./Payload/CheckIn.app/PhoneNumberKit_PhoneNumberKit.bundle/Info.plist ... 
+2023-04-14 14:36:41 +0000  701 bytes for ./Payload/CheckIn.app/PhoneNumberKit_PhoneNumberKit.bundle/Info.plist
+2023-04-14 14:36:41 +0000  copying file ./Payload/CheckIn.app/embedded.mobileprovision ... 
+2023-04-14 14:36:41 +0000  12080 bytes for ./Payload/CheckIn.app/embedded.mobileprovision
+2023-04-14 14:36:41 +0000  copying file ./Payload/CheckIn.app/Info.plist ... 
+2023-04-14 14:36:41 +0000  1561 bytes for ./Payload/CheckIn.app/Info.plist
+2023-04-14 14:36:41 +0000  copying file ./Payload/CheckIn.app/PkgInfo ... 
+2023-04-14 14:36:41 +0000  8 bytes for ./Payload/CheckIn.app/PkgInfo
+2023-04-14 14:36:41 +0000  copying file ./Symbols/42C53E2F-186E-356E-88DD-970C7770EC76.symbols ... 
+2023-04-14 14:36:41 +0000  4516836 bytes for ./Symbols/42C53E2F-186E-356E-88DD-970C7770EC76.symbols
+2023-04-14 14:36:41 +0000  /usr/bin/ditto exited with 0
+2023-04-14 14:36:41 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2023-04-14 14:36:41 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2023-04-14 14:36:41 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2023-04-14 14:36:41 +0000  IDEDistributionItem init <DVTFilePath:0x6000054f5b20:'/var/folders/jx/d4qqw6q52s32b64brs77tbrm0000gn/T/XcodeDistPipeline.~~~PFBJEU/Root/Payload/CheckIn.app'>
+2023-04-14 14:36:41 +0000  Processing step: IDEDistributionCreateManifestStep
+2023-04-14 14:36:41 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so
